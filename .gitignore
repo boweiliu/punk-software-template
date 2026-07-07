@@ -43,8 +43,8 @@ temp/
 *.tmp
 
 # Keep .gitkeep files from being ignored
-docs/.gitkeep
-artifacts/.gitkeep
-ideas/.gitkeep
-sessions/.gitkeep
-src/.gitkeep
+!docs/.gitkeep
+!artifacts/.gitkeep
+!ideas/.gitkeep
+!sessions/.gitkeep
+!src/.gitkeep
