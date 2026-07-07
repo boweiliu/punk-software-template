@@ -4,7 +4,7 @@ A template repository for the punk software hack night.
 
 ## What problem we're solving
 
-What we're building today shapes how we think about working software. Projects from punk software sessions are built fast, shared openly, and iterated on without permission. Software as community artifact. This repository structure keeps code, context, prompts, and artifacts organized so every future session starts with a clear foundation.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## What's in this repo
 
